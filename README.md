@@ -24,10 +24,13 @@ This is a GUI Based Calculator Application made using python, while focusing on 
 
 ### Screenshots:
 UI of the Calculator:
+
 ![UI of the Calculator](Screenshots/Calc-1.png)
 
 Functionality of the Calculator:
+
 ![Functionality of the Calculator](Screenshots/Calc-2.png)
 
 output of the Calculator:
+
 ![output of the Calculator](Screenshots/Calc-3.png)

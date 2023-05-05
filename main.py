@@ -1,6 +1,6 @@
 import customtkinter
 
-# Setting theme to dark
+# Setting theme to dark and color theme to green
 customtkinter.set_appearance_mode('dark')
 customtkinter.set_default_color_theme("green")
 
